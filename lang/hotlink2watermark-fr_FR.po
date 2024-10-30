@@ -1,0 +1,190 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hotlink2Watermark\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-04-10 14:14+0100\n"
+"PO-Revision-Date: 2012-04-10 14:21+0100\n"
+"Last-Translator: tranchesdunet <contact@tranchesdunet.com>\n"
+"Language-Team: tranchesdunet <contact@tranchesdunet.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: E:\\wamp\\www\\TDN3\\wp-content\\plugins\\hotlink2watermark\n"
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:20
+msgid "Tranform your hotlinked photos to ads!"
+msgstr "Transformez le piratage de vos photos en publicités ! "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:21
+msgid "<b>Hotlink2Watermark</b> is a plugin which allow you to display a watermark within each images being 'hotlinked' from your website.<br />"
+msgstr "<b>Hotlink2Watermark</b> est un plugin qui vous permet d'afficher un watermark (filigrane) sur les images qui ont été hotlinkées de votre site.<br /> "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:22
+msgid "An hotlinked image is an image hosted on your website but displayed on another website by an unscrupulous webmaster<br />"
+msgstr "Une image hotlinkée est une image qui est hébergée sur votre site mais est affichée sur un autre site par un webmaster indélicat.<br /> "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:23
+msgid "This overload the bandwith of your website without bringing any visitor.<br />"
+msgstr "Cela surcharge la bande passante de votre serveur sans vous amener de visiteurs.<br /> "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:24
+msgid "This plugin transform this inconvenience into advantage by allowing you to display a link to your image on these image.<br /><br />"
+msgstr "Ce plugin transforme cet inconvénient en avantage en vous permettant d'afficher sur ces images le lien vers votre site, par exemple.<br />"
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:25
+msgid "This plugin does not prevent the steal of your images."
+msgstr "Ce plugin n'empêchera pas les images d'être 'volées' de votre site. "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:27
+msgid "To know if you have any hotlinked image on other websites, click the link below:"
+msgstr "Pour savoir si vous avez des images hotlinkées sur d'autres sites, cliquez sur le lien ci-dessous : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:42
+msgid "Info & Support"
+msgstr "Info & Support"
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:45
+msgid "<b>Hotlink2Watermark</b> is a plugin developped by <a href='http://www.tranchesdunet.com/'>Jean-Marc BIANCA</a>"
+msgstr "<b>Hotlink2Watermark</b> est un plugin développé par <a href='http://www.tranchesdunet.com/'>Jean-Marc BIANCA</a> "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:47
+msgid "Support"
+msgstr "Support"
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:50
+msgid "This plugin has been developped for free. If, by chance, you find it useful, you can thanks me with the Paypal button below ;)"
+msgstr "Ce plugin a été développé gratuitement.<br />Si jamais il vous est utile, vous pouvez me remercier grâce au bouton Paypal ci-dessous ;) "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:75
+msgid "Settings"
+msgstr "Réglages "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:79
+msgid "If a watermark image is defined, it will be used, else the watermark text will be used"
+msgstr "Si un Watermark image est défini il sera utilisé, sinon, c'est le Watermark texte qui sera utilisé "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:83
+msgid "Watermark text settings:"
+msgstr "Réglages du texte de Watermark : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:84
+msgid "Text: "
+msgstr "Texte : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:87
+msgid "Font size: "
+msgstr "Taille de la police :"
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:93
+msgid " in pixel"
+msgstr "en pixel "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:97
+msgid "Text angle: "
+msgstr "Angle du texte :"
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:103
+msgid " in degrees"
+msgstr "en degres "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:106
+msgid "Watermark image settings:"
+msgstr "Réglages de l'image de Watermark : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:107
+msgid "Image url (absolute Url, with 'http://' before):"
+msgstr "Url de l'image (Url absolue, avec 'http://' devant) : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:110
+msgid "General settings:"
+msgstr "Réglages généraux : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:112
+msgid "Watermark opacity: "
+msgstr "Opacité du watermark :"
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:118
+msgid " in percent (0 = invisible)"
+msgstr "en pourcentage (0 = invisible) "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:122
+msgid "Watermark position: "
+msgstr "Position du watermark : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:142
+msgid "<b>Attention</b> : the cache directory cannot be created. You must manually create a directory called 'cache' in this plugin directory, with all read and write permissions.<br />"
+msgstr "<b>Attention</b> : le repertoire de cache n'existe pas et n'a pas pu être créé. Vous devez créer manuellement un repertoire 'cache' dans le repertoire du plugin, avec tous les droits en lecture et écriture.<br /> "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:146
+msgid "<b>Attention</b> : the cache directory can't be written. You must change the 'cache' directory permission, in order to allow the plugin to work."
+msgstr "<b>Attention</b> : le repertoire de cache n'est pas accessible en écriture. Vous devez changer les permissions du répertoire 'cache' dans le repertoire du plugin pour qu'il fonctionne. "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:155
+msgid "Referer's save:"
+msgstr "Sauvegarde des referers : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:156
+msgid "The referer's save allow you to know from which website your hotlinked images are called. This can be useful to, e.g., add a rules in the .htaccess file to avoid the watermarking of your image for specific website (e.g. Facebook). The referer's save is done in a CSV file, which can be opened in Excel."
+msgstr "La sauvegarde des referers vous permet de savoir depuis quels sites sont appelées vos images hotlinkées. Cela vous permettra éventuellement d'ajouter une règle dans le .htaccess pour éviter le 'marquage' des images pour un site particulier (ex: Facebook). La sauvegarde des referers se fait dans un fichier CSV, que l'on peut ouvrir dans Excel par exemple "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:158
+msgid "Save the referers"
+msgstr "Sauvegarder les referers "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:162
+msgid "Open file: "
+msgstr "Ouvrir le fichier : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:164
+msgid "The file cannot be found!"
+msgstr "Le fichier est introuvable ! "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:167
+msgid "<b>Attention</b> : the 'referer.csv' cannot be created. <br />You must modify this plugin's directory writing permissions or create an empty file called 'referer.csv' in this plugin's directory, with all writing permissions sets."
+msgstr "<b>Attention</b> : Impossible de créer le fichier 'referer.csv'. <br />Merci de bien vouloir modifier les autorisations d'écriture sur le répertoire du plugin, ou de créer un fichier vide 'referer.csv' dans le répertoire du plugin, avec tous les droits en écriture. "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:175
+msgid ".htaccess settings:"
+msgstr "Réglages du .htaccess : "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:188
+msgid "Settings not found in your .htaccess"
+msgstr "Configuration non trouvée dans votre fichier .htaccess "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:189
+msgid "<b>Attention</b> : the plugin's settings cannot be found in your .htaccess file. You must update it by clicking on the 'Update the .htaccess' button"
+msgstr "<b>Attention</b> : la configuration du plugin n'a pas été trouvée dans votre fichier .htaccess. Merci de le mettre à jour en cliquant sur le bouton 'Mise à jour du .htaccess' "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:190
+msgid "Update the .htaccess"
+msgstr "Mise à jour du .htaccess "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:194
+msgid "To add another rule (e.g. display normally your images on Google Image)"
+msgstr "Pour ajouter une règle supplémentaire. Ex : afficher les images normalement sur google images "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:196
+msgid "Add this line between the last and the penultimate line of the section below, in your .htaccess file"
+msgstr "Rajoutez la ligne suivante entre la derniere et l'avant derniere ligne de la section ci-dessus, dans votre fichier .htaccess "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/admin_settings.php:207
+msgid "Update"
+msgstr "Mettre à jour "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/hotlink2watermark.php:55
+msgid "Protected by Hotlink2Watermark"
+msgstr "Protégé par Hotlink2Watermark "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/hotlink2watermark.php:146
+msgid "Settings updated"
+msgstr "Paramètres mis à jour "
+
+#: E:\wamp\www\TDN3\wp-content\plugins\hotlink2watermark/hotlink2watermark.php:178
+msgid "empty"
+msgstr "vide "
+
